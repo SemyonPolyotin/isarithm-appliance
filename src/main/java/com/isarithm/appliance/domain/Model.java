@@ -1,4 +1,4 @@
-package com.isarithm.account.domain;
+package com.isarithm.appliance.domain;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

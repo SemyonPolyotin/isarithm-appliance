@@ -1,6 +1,6 @@
-package com.isarithm.account.web.model;
+package com.isarithm.appliance.web.model;
 
-import com.isarithm.account.domain.Model;
+import com.isarithm.appliance.domain.Model;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

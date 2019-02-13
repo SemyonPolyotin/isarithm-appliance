@@ -1,6 +1,6 @@
-package com.isarithm.account.services;
+package com.isarithm.appliance.services;
 
-import com.isarithm.account.domain.Model;
+import com.isarithm.appliance.domain.Model;
 import org.springframework.data.domain.Page;
 
 import java.util.UUID;

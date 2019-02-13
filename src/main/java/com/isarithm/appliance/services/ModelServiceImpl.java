@@ -1,7 +1,7 @@
-package com.isarithm.account.services;
+package com.isarithm.appliance.services;
 
-import com.isarithm.account.domain.Model;
-import com.isarithm.account.repository.ModelRepository;
+import com.isarithm.appliance.domain.Model;
+import com.isarithm.appliance.repository.ModelRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

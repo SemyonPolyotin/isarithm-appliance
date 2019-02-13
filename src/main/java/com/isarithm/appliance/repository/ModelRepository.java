@@ -1,6 +1,6 @@
-package com.isarithm.account.repository;
+package com.isarithm.appliance.repository;
 
-import com.isarithm.account.domain.Model;
+import com.isarithm.appliance.domain.Model;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

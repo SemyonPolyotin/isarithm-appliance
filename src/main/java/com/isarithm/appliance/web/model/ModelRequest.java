@@ -1,4 +1,4 @@
-package com.isarithm.account.web.model;
+package com.isarithm.appliance.web.model;
 
 import lombok.Data;
 
