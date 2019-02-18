@@ -23,4 +23,7 @@ public class Model {
 
 	@Column(name = "models_name_ru")
 	private String name_ru;
+
+	@Column(name = "models_image")
+	private String image;
 }

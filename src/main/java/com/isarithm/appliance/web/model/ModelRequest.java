@@ -9,4 +9,5 @@ public class ModelRequest {
 	private UUID id;
 	private String name;
 	private String name_ru;
+	private String image;
 }

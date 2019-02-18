@@ -12,10 +12,12 @@ public class ModelResponse {
 	private UUID id;
 	private String name;
 	private String name_ru;
+	private String image;
 
 	public ModelResponse(Model model) {
 		this.id = model.getId();
 		this.name = model.getName();
 		this.name_ru = model.getName_ru();
+		this.image = model.getImage();
 	}
 }
